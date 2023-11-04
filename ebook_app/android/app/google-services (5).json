@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019513601164",
+    "project_id": "ebookchatapp",
+    "storage_bucket": "ebookchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019513601164:android:f82f11070dfbc189574fa9",
+        "android_client_info": {
+          "package_name": "com.example.ebook_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019513601164-98h5f63mtm5haujmlifnr3ovabpeps5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyROg7fJ3cOkzdeiS1AhJxyfyjVO6JfMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019513601164-98h5f63mtm5haujmlifnr3ovabpeps5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
